@@ -1,9 +1,4 @@
-"use strict";
-//  Store the person's name in a variable
-let myName = "hassan khan ";
-// Print the name in uppercase
-myName = myName.toUpperCase();
-console.log(myName);
-//  Print the name in lowercase
-myName = myName.toLowerCase();
-console.log(myName);
+// Store the persons name in a variable
+var myName = "hassan khan";
+//  Print a personalized message
+console.log(myName, "hello world");

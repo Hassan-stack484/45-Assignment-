@@ -1,15 +1,8 @@
-      //  Store the person's name in a variable
+     // Store the persons name in a variable
 
-let myName = "hassan khan "
+        let myName  = "hassan khan"
 
-       // Print the name in uppercase
+//  Print a personalized message
 
- myName = myName.toUpperCase();
-         console.log(myName);
+    console.log(myName , "hello world");
 
-         //  Print the name in lowercase
-
-         myName = myName.toLowerCase();
-                 console.log(myName);
-
-       
